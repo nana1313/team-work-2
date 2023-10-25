@@ -273,6 +273,7 @@ body{
     text-transform: uppercase;
 }
   .section-3 {
+    max-width: 100%;
     width: 100%;
     flex-shrink: 0;
     background-color: #171B1B;

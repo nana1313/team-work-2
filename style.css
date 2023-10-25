@@ -151,7 +151,8 @@ body{
     gap: 21px;
     justify-content: center;
     margin-top: 50px;
-  .section-2-container{
+}
+.section-2-container{
     display: grid;
     grid-template-columns: auto auto;
 }

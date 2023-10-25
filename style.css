@@ -326,7 +326,7 @@ body{
 }
 .hr {
     width: 1170px;
-    height: 1px;
+    height: 0.5px;
     background-color: #FFF;
     margin-top: 320px;
     margin-left: 135px;

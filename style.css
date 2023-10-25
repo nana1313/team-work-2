@@ -277,6 +277,7 @@ body{
     width: 100%;
     flex-shrink: 0;
     background-color: #171B1B;
+    margin-top: -283px;
 }
 .section-3-logo {
     display: flex;
